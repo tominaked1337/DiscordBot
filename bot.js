@@ -24,7 +24,7 @@ client.on('message', msg => {
       case '-hi':
         msg.reply('Hello!');
         break;
-    
+        
       case '-sox':
         msg.reply('el fichaje de astralis');
       break;
